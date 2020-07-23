@@ -124,7 +124,7 @@
             If order matters and repeats are allowed,
             the answer will look like <m>n^k</m>.
             If order matters and repeats are not allowed, we have <m>P(n,k)</m>.
-            If order doesn't matter and repeats are allowed, use stars and bars.
+            If order doesn't matter and repeats are allowed, use sticks and stones.
             If order doesn't matter and repeats are not allowed, use <m>{n\choose k}</m>.
             But be careful: this only applies when you are selecting things,
             and you should make sure you know exactly what you are selecting before determining which case you are in.

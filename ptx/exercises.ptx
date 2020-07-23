@@ -55,7 +55,7 @@
 
       <section permid="LhQ">
         <title>Exercises</title>
-        <xi:include href="./exercises/counting-starsbars.ptx"/>
+        <xi:include href="./exercises/counting-sticksstones.ptx"/>
       </section>
 
       <section permid="roZ">

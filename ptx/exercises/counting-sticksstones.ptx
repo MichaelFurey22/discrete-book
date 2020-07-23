@@ -54,7 +54,7 @@
 
               <li permid="Xzv">
                 <p permid="BvS">
-                  Use stars and bars:
+                  Use sticks and stones:
                   each star represents one of the 5 elements of the set,
                   each bar represents a switch between digits.
                   So there are 5 stars and 9 bars,
@@ -120,7 +120,7 @@
 
               <li permid="wcf">
                 <p permid="mmU">
-                  This requires stars and bars.
+                  This requires sticks and stones.
                   Use a star to represent each of the 5 digits in the number,
                   and use their position relative to the bars to say what numeral fills that spot.
                   So we will have 5 stars and 6 bars, giving
@@ -137,12 +137,12 @@
   <exercise permid="eua">
     <statement>
       <p permid="lRv">
-        Each of the counting problems below can be solved with stars and bars.
+        Each of the counting problems below can be solved with sticks and stones.
         For each, say what outcome the diagram
         <me permid="Hzz">
           ***|*||**|
         </me>
-        represents, if there are the correct number of stars and bars for the problem.
+        represents, if there are the correct number of sticks and stones for the problem.
         Otherwise, say why the diagram does not represent any outcome,
         and what a correct diagram would look like.
 

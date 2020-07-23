@@ -41,7 +41,7 @@
   <xi:include href="sec_counting-binom.ptx"/>
   <xi:include href="sec_counting-combperm.ptx"/>
   <xi:include href="sec_counting-proofs.ptx"/>
-  <xi:include href="sec_counting-starsbars.ptx"/>
+  <xi:include href="sec_counting-sticksstones.ptx"/>
   <xi:include href="sec_counting-advPIE.ptx"/>
   <xi:include href="sec_counting-conc.ptx"/>
 </chapter>

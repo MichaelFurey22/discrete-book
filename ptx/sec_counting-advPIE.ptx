@@ -56,7 +56,7 @@
       </p>
     </investigation>
     <p permid="yke">
-      Stars and bars allows us to count the number of ways to distribute 10 cookies to 3 kids and natural number solutions to <m>x+y+z = 11</m>,
+      Sticks and stones allows us to count the number of ways to distribute 10 cookies to 3 kids and natural number solutions to <m>x+y+z = 11</m>,
       for example.
       A relatively easy modification allows us to put a <em>lower bound</em>
       restriction on these problems:
@@ -65,7 +65,7 @@
       (or variable)
       2 cookies
       (or units)
-      and then distributing the rest using stars and bars.
+      and then distributing the rest using sticks and stones.
     </p>
 
     <p permid="ern">
@@ -79,7 +79,7 @@
       we must count the number of ways to distribute 11 cookies to 3 kids in which <em>one or more</em>
       of the kids gets more than 4 cookies.
       For any particular kid, this is not a problem;
-      we do this using stars and bars.
+      we do this using sticks and stones.
       But how to combine the number of ways for kid A, or B or C? We must use the PIE.
     </p>
 
@@ -248,7 +248,7 @@
           But now we have removed too much.
           We must add back in all the ways to give too many cookies to three kids.
           This uses 9 cookies,
-          leaving only 1 to distribute to the 4 kids using stars and bars,
+          leaving only 1 to distribute to the 4 kids using sticks and stones,
           which can be done in <m>{4 \choose 3}</m> ways.
           We must consider this outcome for every possible choice of which three kids we over-feed,
           and there are <m>{4 \choose 3}</m> ways of selecting that set of 3 kids.
@@ -377,7 +377,7 @@
       </p>
     </investigation>
     <p permid="Pip">
-      The advanced use of PIE has applications beyond stars and bars.
+      The advanced use of PIE has applications beyond sticks and stones.
       A <term>derangement</term>
           <idx><h>derangement</h></idx>
       of <m>n</m> elements <m>\{1,2,3,\ldots,
@@ -937,7 +937,7 @@
     <p permid="QXC">
       While it is possible to interpret combinations as functions,
       perhaps the better advice is to instead use combinations
-      (or stars and bars)
+      (or sticks and stones)
       when functions are not quite the right way to interpret the counting question.
     </p>
   </subsection>

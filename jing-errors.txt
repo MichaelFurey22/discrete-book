@@ -122,9 +122,9 @@
 
 /home/oscar/GitHub/discrete-book/ptx/exercises/counting-proofs.ptx:1064:16: error: element "solution" incomplete; expected element "aside", "biographical", "blockquote", "figure", "historical", "idx", "list", "listing", "p", "pre", "sage", "sbsgroup", "sidebyside", "table", "title" or "todo"
 
-/home/oscar/GitHub/discrete-book/ptx/sec_counting-starsbars.ptx:443:30: error: element "paragraphs" not allowed here; expected the element end-tag or element "activity", "algorithm", "aside", "assemblage", "assumption", "axiom", "biographical", "blockquote", "claim", "computation", "conjecture", "convention", "corollary", "definition", "demonstration", "example", "exercise", "exploration", "fact", "figure", "heuristic", "historical", "hypothesis", "identity", "insight", "investigation", "lemma", "list", "list-of", "listing", "note", "observation", "p", "poem", "pre", "principle", "problem", "project", "proof", "proposition", "question", "remark", "sage", "sbsgroup", "sidebyside", "table", "technology", "theorem", "todo" or "warning"
+/home/oscar/GitHub/discrete-book/ptx/sec_counting-sticksstones.ptx:443:30: error: element "paragraphs" not allowed here; expected the element end-tag or element "activity", "algorithm", "aside", "assemblage", "assumption", "axiom", "biographical", "blockquote", "claim", "computation", "conjecture", "convention", "corollary", "definition", "demonstration", "example", "exercise", "exploration", "fact", "figure", "heuristic", "historical", "hypothesis", "identity", "insight", "investigation", "lemma", "list", "list-of", "listing", "note", "observation", "p", "poem", "pre", "principle", "problem", "project", "proof", "proposition", "question", "remark", "sage", "sbsgroup", "sidebyside", "table", "technology", "theorem", "todo" or "warning"
 
-/home/oscar/GitHub/discrete-book/ptx/exercises/counting-starsbars.ptx:2:102: error: element "exercises" not allowed yet; missing required element "subsection"
+/home/oscar/GitHub/discrete-book/ptx/exercises/counting-sticksstones.ptx:2:102: error: element "exercises" not allowed yet; missing required element "subsection"
 
 /home/oscar/GitHub/discrete-book/ptx/exercises/counting-advPIE.ptx:90:127: error: text not allowed here; expected element "stage" or "statement"
 
